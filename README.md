@@ -1,6 +1,9 @@
 # p7TarjetasNava
 se realizan varios ejemplos de card con sus propiedades
 
+link teferencia
+https://programmerspouch.medium.com/3-card-flutter-famous-widgets-guide-1b4434f962b1
+
 ## appBar
 ![image](https://github.com/user-attachments/assets/31a561e3-9309-40e0-be01-1679971825da)
 
